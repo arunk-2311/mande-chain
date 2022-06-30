@@ -1,0 +1,2 @@
+# mande-chain
+Vote machine.
